@@ -1,2 +1,3 @@
-# Defence-Mechanism-for-Phishing-with-Data-Mining-Descion-Tree-Algorithm-
+
+Defence-Mechanism-for-Phishing-with-Data-Mining-Descion-Tree-Algorithm-
 Building a system capable of protecting users from phishing is essential that someone should know the social engineering attack strategy. The rise in Social engineering attacks has seen to rise as a result of human factor and it spreads via a medium that exploits the weakness of the end-user ecosystem. The attack most time is broad and no specific method or solution to reduce the vulnerability. Hence multiple strategies and techniques are being deployed to mitigate some attacks because no single means of a solution exists. This piece of work will x-ray different phishing mitigation strategy which will include its detection, penetration testing with social engineering and proactive defense mechanism.
